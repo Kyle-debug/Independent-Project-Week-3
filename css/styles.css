@@ -13,4 +13,9 @@ html{
     font-family: 'Gabriela', serif;
     /* padding-bottom:5%; */
   }
-  
+  .landing h1{
+    padding: 2px;
+    margin: 5px;
+  }
+  .landing p{
+    padding: 2px;
