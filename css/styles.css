@@ -10,7 +10,7 @@ html{
     color: white;
     text-align: center;
     padding-top:17%; 
-    font-family: 'Gabriela', serif;
+    font-family: cursive;
     /* padding-bottom:5%; */
   }
 .landing h1{
@@ -50,10 +50,10 @@ html{
     text-align: center;
     padding-bottom: 30px;
     padding-top:40px;
-    font-family: 'Copse', serif;
+    font-family: cursive;
   }
 #about{
-    font-family: 'Gabriela', serif;
+    font-family: cursive;
   }
 .services{
     text-align: center;
@@ -62,11 +62,11 @@ html{
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    font-family: 'Copse', serif;
+    font-family: cursive;
     font-size: 18px;
   }
 .services h2{
-    font-family: 'Gabriela', serif;
+    font-family: cursive;
     
   }
 #servicesoverlay{
@@ -75,10 +75,10 @@ html{
     padding-bottom: 10%;
   }
 .what-we-do{
-    font-family: 'Quattrocento', serif;
+    font-family: cursive;
     text-align: center;
     padding-top: 40px;
-    font-family: 'Gabriela', serif;
+    font-family: cursive;
   }
 .what-we-do .headings{
     padding-bottom: 38px;
@@ -97,7 +97,7 @@ html{
 .portfolio h2{
     text-align: center;
     padding-top:40px;
-    font-family: 'Gabriela', serif;
+    font-family: cursive;
   }
 .contact{
     background-image: url('../images/backgrounds/c_image.jpg');
@@ -115,13 +115,13 @@ html{
     margin-top: 30px;
     padding-top: 40px;
     padding-bottom: 20px;
-    font-family: 'Gabriela', serif;
+    font-family: cursive;
   }
 input[type=text],input[type=email],#comment{
     background: transparent;
     color: white;
     font-size: 20px;
-    font-family: 'Copse', serif;
+    font-family: cursive;
   }
   
 .form-control::-webkit-input-placeholder { 
@@ -154,7 +154,7 @@ footer p{
   }
 #product, #development, #design{
     display: none;
-    font-family: 'Copse', serif;
+    font-family: cursive;
     font-size: 16px;
   }
 #product .title, #development .title, #design .title{
