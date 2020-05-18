@@ -147,7 +147,7 @@ button{
 footer{
     text-align: center;
     padding-top: 30px;
-    font-family: 'Delius Swash Caps', cursive;
+    font-family:  cursive;
   }
 footer p{
     margin-top: 10px;
@@ -174,7 +174,7 @@ footer p{
     text-align: center;
     font-size: 30px;
     padding-top: 50%;
-    font-family: 'Delius Swash Caps', cursive;
+    font-family:  cursive;
   }
 @media only screen and (max-width: 755px){
     #overlay,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
